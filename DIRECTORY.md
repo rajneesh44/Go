@@ -2,6 +2,7 @@
 ## Ciphers
   * [Caesarcipher](https://github.com/TheAlgorithms/Go/blob/master/ciphers/CaesarCipher.go)
   * [Diffiehellmankeyexchange](https://github.com/TheAlgorithms/Go/blob/master/ciphers/diffieHellmanKeyExchange.go)
+  * [Rsacipher(Big)](https://github.com/TheAlgorithms/Go/blob/master/ciphers/RSAcipher(Big).go)
   * [Rsacipher](https://github.com/TheAlgorithms/Go/blob/master/ciphers/RSAcipher.go)
   * [Xorcipher](https://github.com/TheAlgorithms/Go/blob/master/ciphers/xorCipher.go)
 
@@ -22,7 +23,9 @@
     * [Trie Test](https://github.com/TheAlgorithms/Go/blob/master/data-structures/trie/trie_test.go)
 
 ## Dynamic-Programming
+  * [Knapsack](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/knapsack.go)
   * [Longest-Palindromic-Subsequence](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/longest-palindromic-subsequence.go)
+  * [Longestcommonsubsequence](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/longestCommonSubsequence.go)
   * [Matrix-Multiplication](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/matrix-multiplication.go)
   * [Rod-Cutting](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/rod-cutting.go)
 
@@ -37,6 +40,7 @@
 ## Searches
   * [Binary Search](https://github.com/TheAlgorithms/Go/blob/master/searches/binary_search.go)
   * [Linear Search](https://github.com/TheAlgorithms/Go/blob/master/searches/linear_search.go)
+  * [Search Test](https://github.com/TheAlgorithms/Go/blob/master/searches/search_test.go)
 
 ## Sorts
   * [Bubble Sort](https://github.com/TheAlgorithms/Go/blob/master/sorts/bubble_sort.go)
